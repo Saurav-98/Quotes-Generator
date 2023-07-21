@@ -62,4 +62,3 @@ twitterBtn.addEventListener("click", tweetYourQuote);
 // Attaching New Quote BTN
 newQuoteBtn.addEventListener("click", getRandomQuote);
 getQuotes();
-// loading();
